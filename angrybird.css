@@ -1,0 +1,102 @@
+/*CSS By Kishu FaCrewz*/
+/*hot anbirds css - type 1*/
+/*http://flambons.com*/
+
+body {background:#decfb5;margin:0;padding:0;color:#333}
+#header {margin:0;padding:0}
+.heading {margin:0;padding:15px 5px;font-size:small;background:url(/files/hot_anbirds/sw7.png)bottom right no-repeat,url(/files/hot_anbirds/wn1.png)repeat-x bottom}
+.description {margin:0;padding:7px 5px;font-size:small;background:#3a7e8c;border-top:3px solid #444;color:#ccc;text-shadow:#111 1px 1px 1px;border-bottom:1px solid #4b8f9d}
+#navigation {background:url(/files/hot_anbirds/wn3.png)repeat-x bottom,#3a7e8c;margin:0;padding:5px 0;text-align:center;border-top:1px solid #185c6a;border-bottom:3px solid #444}
+#navigation span {margin:1px;padding:4px 2px;display:inline-table;width:26%;background:url(/files/hot_anbirds/wn2.png)repeat-x top,#333;border:1px solid #59a}
+#navigation span+span+span a {content:"Menu"}
+#top-content {background:url(/files/hot_anbirds/wn7.png)top left no-repeat,url(/files/hot_anbirds/wn6.png)repeat-x top,#cdbea4;margin:0;padding:7px 5px;text-align:right;border-bottom:1px solid #efdfc6}
+#search-form [type=text] { width:47%;background:url(/files/hot_anbirds/wn4.png)repeat-x top,#eee;margin:1px;padding:4px;color:#333;border:1px solid #9a8b71} 
+#search-form [type=submit] {;width:20%;margin:1px;padding:4px;border:1px solid #222;color:#ffe;background:url(/files/hot_anbirds/wn2.png)repeat-x top,#333}
+.post {background:url(/files/hot_anbirds/wn3.png)repeat-x bottom,url(/files/hot_anbirds/wn8.png)repeat-x top,#3a7e8c;margin:9px 5px 9px 20px;padding:0;border:2px solid #444}
+.post .post-content {margin:0 5px 0 -17px;padding:9px 5px;background:url(/files/hot_anbirds/wn22.png)bottom right no-repeat,url(/files/hot_anbirds/wn19.png)repeat-x top,#e1e1e1;border:1px solid #444;color:#333;text-shadow:#fafafa 1px 1px 1px}
+.post-meta .title,.categories {margin:0;padding:2px 0;font-size:small}
+.post-meta {background:url(/files/hot_anbirds/wn21.png)bottom left no-repeat;margin:0;padding:5px 2px 5px 30px;color:#034}
+.post:before {content:"";padding:5px;background:url(/files/hot_anbirds/wn9.png)top right no-repeat,url(/files/hot_anbirds/wn10.png)top left no-repeat;display:block;margin:-2px -2px -9px -2px}
+.post-meta2 {background: url(/files/hot_anbirds/wn11.png)bottom right no-repeat,url(/files/hot_anbirds/wn14.png)bottom left no-repeat;margin:0 -2px -2px -2px;padding:9px 5px 14px 5px;text-align:right}
+.post-meta2 a {background:url(/files/hot_anbirds/wn2.png)repeat-x top,#333;border:1px solid #59a;padding:4px 2px;margin:0}
+.post-content:before {content:"";padding:5px;display:block;background:url(/files/hot_anbirds/wn15.png)left top no-repeat,url(/files/hot_anbirds/wn17.png)right top no-repeat;margin:-10px -6px 0 -6px}
+.post-content:after {content:"";padding:5px;display:block;background:url(/files/hot_anbirds/wn16.png)left bottom no-repeat,url(/files/hot_anbirds/wn18.png)right bottom no-repeat;margin:0 -6px -10px -6px}
+.thumbnail{border:1px solid #666 !important;margin:2px 2px 0 0 !important;width:50px !important;height:60px !important;padding:1px !important;background:#fff}
+#pagination-links {background:url(/files/hot_anbirds/wn19.png)repeat-x top,#e1e1e1;border-top:3px solid #444;text-align:center;margin:0;padding:5px 2px 7px 2px} 
+#pagination-links span {padding:4px;display:inline-block;background:url(/files/hot_anbirds/wn8.png)repeat-x top,#3a7e8c;border:1px solid #444;color:#eee} 
+#pagination-links a {padding:4px;display:inline-block;margin-top:2px;text-decoration:none;background:url(/files/hot_anbirds/wn2.png)repeat-x top,#333;border:1px solid #222;color:#eee;text-shadow:#111 1px 1px 1px}
+#navigation-menu {border-bottom:3px solid #444}
+#navigation-menu h3 {background:url(/files/hot_anbirds/wn25.png)right top no-repeat,url(/files/hot_anbirds/wn8.png)repeat-x top,#3a7e8c;margin:0;padding:8px 5px;border:1px solid #444;border-width:1px 0 3px 0;color:#eee;text-shadow:#000 1px 1px 1px}
+#navigation-menu ul {margin:0;padding:0;background:#e1e1e1}
+#navigation-menu li {list-style:none;margin:0;padding:5px;border-top:1px solid #f1f1f1;border-bottom:1px solid #c1c1c1;background:url(/files/hot_anbirds/wn26.png)repeat-x top}
+#navigation-menu li:first-child {background:url(/files/hot_anbirds/wn28.png)top right no-repeat,url(/files/hot_anbirds/wn26.png)repeat-x top;border-top:none !important}
+#blogroll li.last,#category-bottom li.last,#navigation-menu li.last {border-bottom:none !important }
+#category-bottom {background:url(/files/hot_anbirds/wn3.png)repeat-x bottom,url(/files/hot_anbirds/wn8.png)repeat-x top,#3a7e8c;margin:7px 5px;padding:0;border:1px solid #fff}
+#category-bottom:before {content:"";display:block;padding:5px;background: url(/files/hot_anbirds/wn29.png)top right no-repeat;margin:-1px -1px -10px -1px}
+#category-bottom:after {content:"";display:block;padding:5px;background: url(/files/hot_anbirds/wn30.png)bottom right no-repeat,url(/files/hot_anbirds/wn31.png)bottom left no-repeat;margin:-9px -1px -1px -1px}
+#category-bottom h3 {margin: -1px 0px 0px -1px;padding:8px 5px;border:1px solid #fff;border-width:0 1px 1px 0;width:50%;background:url(/files/hot_anbirds/vn4.png)bottom right no-repeat,url(/files/hot_anbirds/wn1.png)repeat-x bottom,#decfb5;color:#111;text-shadow:#ffe 1px 1px 1px}
+#category-bottom ul {background:url(/files/hot_anbirds/wn34.png)repeat-x bottom,url(/files/hot_anbirds/wn35.png)repeat-x top,#333;margin:5px 5px 10px 5px;padding:0;border:1px solid #59a}
+#category-bottom h3:after {content:"";display:block;padding:5px;background: url(/files/hot_anbirds/wn37.png)bottom right no-repeat;margin:0 -6px -9px -6px}
+#category-bottom li {list-style:none;color:#ccc;margin:0;padding:5px;border-top:1px solid #444;border-bottom:1px solid #222;text-align:right}
+#category-bottom li a {float:left}
+#blogroll li:first-child,#category-bottom li:first-child {border-top:none !important}
+#blogroll {background:#cdbea4;margin:0;padding:7px 0 1px 0;border-top:1px solid #efdfc6}
+#blogroll h3 {margin:0;padding:7px 5px;width:50%;background:url(/files/hot_anbirds/wn49.png)center right no-repeat,url(/files/hot_anbirds/wn3.png)repeat-x bottom,#3a7e8c;border:1px solid #444;border-left:none;color:#eee;text-shadow:#111 1px 1px 1px}
+#blogroll ul {margin:7px 5px;padding:0;background:url(/files/hot_anbirds/b.png)bottom right no-repeat,url(/files/hot_anbirds/wn19.png)repeat-x top,url(/files/hot_anbirds/wn41.png)repeat-x bottom,#e1e1e1;border:3px solid #444}
+#blogroll li {list-style:url(/files/hot_anbirds/vn3.png) inside;margin:0;padding:5px;border-top:1px solid #f1f1f1;border-bottom:1px solid #c1c1c1}
+#blogroll h3:after {content:"";display:block;padding:5px;background: url(/files/hot_anbirds/wn43.png)bottom right no-repeat;margin:-1px -6px -8px -6px}
+#blogroll h3:before {content:"";display:block;padding:5px;background: url(/files/hot_anbirds/wn42.png)top right no-repeat;margin:-8px -6px -1px -6px}
+#blogroll ul:before {content:"";display:block;padding:5px;background: url(/files/hot_anbirds/wn44.png)top right no-repeat,url(/files/hot_anbirds/wn45.png)top left no-repeat;margin:-3px -3px -9px -3px}
+#blogroll ul:after {content:"";display:block;padding:5px;background: url(/files/hot_anbirds/wn46.png)bottom right no-repeat,url(/files/hot_anbirds/wn47.png)bottom left no-repeat;margin:-9px -3px -3px -3px}
+h6 {margin:0;padding:0}
+#footer {margin:0;padding:5px;text-align:center;background:url(/files/hot_anbirds/wn50.png)top right no-repeat,url(/files/hot_anbirds/wn35.png)repeat-x top,#333;color:#ccc;}
+#footer img {display:none}
+.post-single {margin:7px 5px;padding:0;border:2px solid #444;background:url(/files/hot_anbirds/wn8.png)repeat-x top,#3a7e8c}
+.post-single .post-meta {background:url(/files/hot_anbirds/wn21.png)bottom left no-repeat;margin:0;padding:5px 2px 5px 30px;border:1px solid #444;border-width:0 0 3px 0}
+.post-single .post-content {background:url(/files/hot_anbirds/wn28.png)top right no-repeat,url(/files/hot_anbirds/wn26.png)repeat-x top,#e1e1e1;margin:0;padding:9px 5px;color:#333;text-shadow:#fafafa 1px 1px 1px}
+.post-single .post-content:after,.post-single .post-content:before {display:none}
+.post-single:before {content:"";padding:5px;background:url(/files/hot_anbirds/wn9.png)top right no-repeat,url(/files/hot_anbirds/wn10.png)top left no-repeat;display:block;margin:-2px -2px -9px -2px}
+#share-buttons {margin:0;padding:5px;background:url(/files/hot_anbirds/wn41.png)repeat-x bottom,#e1e1e1;color:#333}
+#share-buttons:before {content:"Share On : ";}
+#blogroll_list h3,#following-list h4,#comments h3,#recent-posts-list h4 {background:url(/files/hot_anbirds/wn25.png)right top no-repeat,url(/files/hot_anbirds/wn8.png)repeat-x top,#3a7e8c;margin:0;padding:8px 5px;border:1px solid #444;border-width:1px 0 3px 0;color:#eee;text-shadow:#000 1px 1px 1px}
+#blogroll_list ol,#following-list ol,#recent-posts-list ol {margin:0;padding:0;background:#e1e1e1}
+#blogroll_list li,#following-list li,#recent-posts-list li {list-style:none;margin:0;padding:5px;border-top:1px solid #f1f1f1;border-bottom:1px solid #c1c1c1;background:url(/files/hot_anbirds/wn26.png)repeat-x top}
+.date {display:none}
+.post-single:after {content:"";padding:5px;display:block;background: url(/files/hot_anbirds/wn51.png)bottom left no-repeat,url(/files/hot_anbirds/wn11.png)bottom right no-repeat;margin:-8px -2px -2px -2px}
+#comments h4 {background:#e1e1e1;margin:0;padding:5px;border-bottom:1px solid #f1f1f1}
+#comments h5 {background:url(/files/hot_anbirds/wn52.png)repeat-x bottom,#e1e1e1;margin:0;padding:5px;border-top:1px solid #c1c1c1;border-bottom:3px solid #3a7e8b}
+.comment-header .title {background:transparent !important;padding:0 !important;border:none !important}
+.comment {background:#333;margin:0;padding:0 0 1px 0;border-top:1px solid #444;border-bottom:1px solid #111}
+.comment-header {margin:0;padding:3px 5px 3px 1px;color:#666;background:url(/files/hot_anbirds/wn53.png)bottom right no-repeat,url(/files/hot_anbirds/wn54.png)repeat-x bottom}
+.comment-content {margin:-1px 0 0 0;padding:12px 5px 5px 5px;color:#ccc;background:url(/files/hot_anbirds/wn56.png)top left no-repeat}
+#comment_form{text-align:left;margin:0;padding:5px}
+#comment_form textarea{width:80%;margin:2px 0;padding:15px 0;background:url(/files/hot_anbirds/wn4.png)repeat-x top,#eee;color:#333;border:1px solid #9a8b71}
+#comment_form input[type=text],.mobile_body
+#comment_form select{width:50%;margin:2px 0;padding:3px;background:url(/files/hot_anbirds/wn4.png)repeat-x top,#eee;color:#333;border:1px solid #9a8b71}
+#comment_form [type=submit] {margin:2px 0;padding:3px;background:url(/files/hot_anbirds/wn8.png)repeat-x top,#3a7e8c;color:#eee;border:1px solid #444}
+#comments li {margin:0;padding:5px;list-style:none;text-align:center;background:#cdbea4;border-bottom:1px solid #efdfc6}
+#comments ol {margin:0;padding:0}
+.highlight {margin:0;padding:5px;text-align:center;background:#333;color:#ccc}
+body img {max-width:80%;max-height:80%}
+.post-single .post-content textarea {width:70px;height:70px;padding:0;margin:0}
+.post-content,.comment-content {word-wrap:break-word}
+#navigation-menu li h3,#navigation-menu li h5 {margin:-5px;padding:5px;background:#333;color:#eee;border:none !important}
+.post-content h1 {background:#333;margin:0;padding:5px;color:#ccc}
+.post-content h2 {background:#ccc;margin:0;padding:5px;color:#222}
+.post-content h4 {background:#fff;margin:0;padding:5px;color:#333}
+.post-content h5 {background:#000;margin:0;padding:5px;color:#eee}
+.post-content h3,.post-content h6 {background:#3a7e8c;margin:0;padding:5px;color:#eee}
+.post-content ol {margin:0;padding:0;background:#ccc}
+.post-content li {list-style:none;margin:0;padding:5px;border-top:1px solid #ddd;border-bottom:1px solid #aaa}
+.post-content h1,.post-content h2,.post-content h3,.post-content h4,.post-content h5,.post-content h6{text-shadow:none !important;font-size:small}
+.heading a {color:#185c6a;text-shadow:#ffefd7 1px 1px 1px}
+#footer a,.comment-header .title a,#category-bottom li a,#navigation a,.post-meta2 a {color:#5c9fae;text-shadow:#111 1px 1px 1px}
+.post-content h3 a,#blogroll_list h3 a,#following-list h4 a,#comments h3 a,#navigation-menu h3 a,.post-meta a,.post-meta .title {color:#ddd;text-shadow:#111 1px 1px 1px}
+a {color:#186d7b;text-shadow:#f1f1f1 1px 1px 1px}
+#footer span {background:transparent !important;color:#ccc !important;border:none !important}
+#blogroll_list li:last-child,#following-list li:last-child,#recent-posts-list li:last-child {border-bottom:none !important }
+#blogroll_list li:first-child,#following-list li:first-child,#recent-posts-list li:first-child {border-top:none !important}
+.comment-header:before {content:url(/files/hot_anbirds/vn.png);float:left;margin-right:5px}
+#bottom-content:after {content:url(/files/hot_anbirds/vn2.png);background:url(/files/hot_anbirds/wn8.png)repeat-x top,#3a7e8c;display:block;padding:3px 5px;margin:0;border-top:1px solid #444;text-align:center}
+#footer h6:before {content:"fmb_" !important;display:inline !important}
+#footer:after {content:"Hot Anbirds By Flambon" !important;margin:3px -5px -5px -5px;padding:5px;display:block !important;font-size:small !important}
